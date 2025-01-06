@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Sigurd Saue**! 🇫🇷🇳🇴
+# 👋 Hi, I'm **Sigurd Saue**!
 
 🎓 **Master's student in Data Science** at **Toulouse School of Economics**  
 💻 Passionate about **Machine Learning** and **Artificial Intelligence**
@@ -10,4 +10,4 @@
 
 ---
 
-![Coding Monkey GIF](https://media.giphy.com/media/3o6ZsYwKw8zC1JcQcw/giphy.gif)
+![Coding Monkey GIF](https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif)
