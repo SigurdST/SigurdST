@@ -5,6 +5,6 @@
 **Master's student in Data Science** at **Toulouse School of Economics**
 
 
-<div style="text-align: center;">
-  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" alt="Cool GIF" width="600" />
-</div>
+<p style="text-align: center;">
+  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" alt="Cool GIF" width="600" style="display: block; margin: auto;" />
+</p>
