@@ -6,5 +6,5 @@
 
 
 <p>
-  <img src="https://media.giphy.com/media/uM0QzrHWSDr4KwbC3v/giphy.gif" alt="Cool GIF" width="600" />
+  <img src="https://media.giphy.com/media/mjTpgz6FGNVDoMg5lx/giphy.gif" alt="Cool GIF" width="600" />
 </p>
