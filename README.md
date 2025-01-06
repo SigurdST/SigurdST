@@ -6,5 +6,5 @@
 
 
 <p style="text-align: center;">
-  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" alt="Cool GIF" width="600" style="display: block; margin: auto;" />
+  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" alt="Cool GIF" width="600" style="display: block; margin: auto;" />
 </p>
