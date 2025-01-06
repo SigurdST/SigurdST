@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm **Sigurd Saue**!
 
-<!--
-**SigurdST/SigurdST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Master's student in Data Science** at **Toulouse School of Economics**  
+💻 Passionate about **Machine Learning** and **Artificial Intelligence**  
+🌍 Exploring ways to apply AI to real-world challenges
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+- **Programming**: Python, R, SQL, Julia
+- **Libraries**: Scikit-learn, TensorFlow, PyTorch and more
+- **Visualization**: Matplotlib, Seaborn, Tableau  
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/sigurd-saue/)  
+- [GitHub](https://github.com/your-username)  
+
+---
+
+![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
