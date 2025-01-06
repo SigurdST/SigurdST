@@ -5,7 +5,7 @@
 
 ---
 
-- [LinkedIn]([https://www.linkedin.com/in/sigurd-saue-197243207/])
+- [LinkedIn](https://www.linkedin.com/in/sigurd-saue-197243207/)
 
 
 ---
