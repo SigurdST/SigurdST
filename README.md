@@ -1,4 +1,6 @@
-# Hi, I'm **Sigurd Saue** 🇫🇷🇳🇴
+<p align="center">
+  # Hi, I'm **Sigurd Saue** 🇫🇷🇳🇴
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sigurd-saue-197243207/" target="_blank">
