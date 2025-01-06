@@ -5,3 +5,7 @@
 **Master's student in Data Science** at **Toulouse School of Economics**
 
 <p><img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" alt="Coding Monkey GIF" width="300" /></p>
+
+<p>
+  <img src="https://media.giphy.com/media/uM0QzrHWSDr4KwbC3v/giphy.gif" alt="Cool GIF" width="600" />
+</p>
