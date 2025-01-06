@@ -10,4 +10,4 @@
 
 ---
 
-![Coding GIF]([https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif](https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094))
+![Coding GIF](https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif)
